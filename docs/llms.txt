@@ -1,0 +1,14 @@
+# Azure SQL Database container: documentation has moved
+
+This repository and its documentation site are deprecated. Use the Azure SQL Developer Hub for current Azure SQL development guidance, including local container setup.
+
+## Current resources
+
+- [Azure SQL Developer Hub](https://aka.ms/azuresql-hub): getting started, local and cloud setup, and application development guidance.
+- [Developer Hub repository](https://github.com/microsoft/azure-sql-dev-hub): documentation source and contributions.
+- [Microsoft SQL plugins and agent skills](https://github.com/microsoft/microsoft-sql): the current catalog and installation instructions.
+- [Developer Hub agent index](https://microsoft.github.io/azure-sql-dev-hub/llms.txt): the current documentation index for agents.
+
+## Legacy reference
+
+The [original container documentation source](https://github.com/microsoft/azure-sql-database-container/tree/main/docs) is retained for reference during the transition. Use the current resources above for new setup and plugin installation.
